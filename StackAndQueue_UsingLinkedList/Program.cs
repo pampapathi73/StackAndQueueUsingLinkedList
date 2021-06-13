@@ -14,6 +14,11 @@ namespace StackAndQueue_UsingLinkedList
             linkedListStack.Push(30);
             linkedListStack.Push(56);
             linkedListStack.Display();
+            linkedListStack.Peek();
+            linkedListStack.Pop();
+            linkedListStack.Pop();
+            linkedListStack.Display();
+            linkedListStack.Peek();
         }
 
     }
